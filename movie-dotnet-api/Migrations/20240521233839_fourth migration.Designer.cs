@@ -11,8 +11,8 @@ using movie_dotnet_api.Model;
 namespace movie_dotnet_api.Migrations
 {
     [DbContext(typeof(UserDBContext))]
-    [Migration("20240521213540_Initial migration create")]
-    partial class Initialmigrationcreate
+    [Migration("20240521233839_fourth migration")]
+    partial class fourthmigration
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

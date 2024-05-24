@@ -5,7 +5,7 @@
 namespace movie_dotnet_api.Migrations
 {
     /// <inheritdoc />
-    public partial class Initialmigrationcreate : Migration
+    public partial class fourthmigration : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
